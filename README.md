@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tareq Alhammoodi
 - 👀 I’m interested in web and mobile applications development.
-- 🌱 I’m currently learning Java , JS and Dart.
+- 🌱 I’m currently learning Java, JS and Dart.
 - 📫 How to reach me? Well, click here -> [tareqalhammoodi.info](https://tareqalhammoodi.info/)
 
 <!---
